@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pythonbasico.iml" filepath="$PROJECT_DIR$/.idea/Pythonbasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" filepath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject11/.idea/pythonProject11.iml" filepath="$PROJECT_DIR$/../pythonProject11/.idea/pythonProject11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" filepath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" />
+    </modules>
+  </component>
+</project>
